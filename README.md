@@ -123,5 +123,5 @@ java -jar google-java-format-1.22.0-all-deps.jar \
 ```
 
 ## License
+- Aegires is licensed under [GNU LGPLv3](https://github.com/Legitbhaidark/Aegires/?tab=LGPL-3.0-1-ov-file).
 
-Copyright (c) Curione23. All rights reserved. See [LICENSE](LICENSE).
